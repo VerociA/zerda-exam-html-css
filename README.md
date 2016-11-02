@@ -80,7 +80,7 @@ Add your answer to this readme file, commit your changes to this repository.
   </body>
 </html>
 ```
-#### Your answer: [2p]
+#### Your answer: It is 40px from top and left also. You have to add together both divs 20 pxs since bar, the yellow box is inside the foo div.[2p]
 
 
 ## 3. Explain concepts (~15 minutes) [4 points]
